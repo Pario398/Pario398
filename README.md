@@ -23,6 +23,7 @@ I'm proficient in the following languages:
 - [SQL](https://www.mysql.com/)
 - [NoSQL (MongoDB)](https://www.mysql.com/)
 - [CSS, JavaScript, HTML](https://www.w3.org/standards/webdesign/htmlcss)
+- [React]((https://react.dev/))
 
 I also use [Git](https://git-scm.com/) for version control to manage my projects and collaborate with others.
 I leverage these languages to develop various types of projects, including web applications, data analysis scripts, and more.
@@ -30,7 +31,3 @@ I leverage these languages to develop various types of projects, including web a
 ## Interests
 
 I am very passionate about AI (Artificial Intelligence) and Data Science. These are two exciting and rapidly evolving fields that have a lot of potential and impact. I enjoy working on projects that involve building intelligent systems, analyzing data, and creating innovative solutions. I am always eager to learn new skills and techniques that can help me achieve my goals and deliver value.
-
-## Contact information
-
-To be added later
