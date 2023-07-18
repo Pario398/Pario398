@@ -23,7 +23,7 @@ I'm proficient in the following languages:
 - [SQL](https://www.mysql.com/)
 - [NoSQL (MongoDB)](https://www.mysql.com/)
 - [CSS, JavaScript, HTML](https://www.w3.org/standards/webdesign/htmlcss)
-- [React]((https://react.dev/))
+- [React](https://react.dev/)
 
 I also use [Git](https://git-scm.com/) for version control to manage my projects and collaborate with others.
 I leverage these languages to develop various types of projects, including web applications, data analysis scripts, and more.
