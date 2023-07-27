@@ -4,6 +4,8 @@
 Hello! I'm Rishabh Soni, and this is my portfolio where I showcase my projects and skills.
 I am currently a university student at the University of Kent studying Computer Science
 
+## Tools and Languages
+
 | Tools           | Languages                                   |
 |-----------------|---------------------------------------------|
 | [VS Code](https://code.visualstudio.com/)| [Java](https://www.oracle.com/java/)               |
