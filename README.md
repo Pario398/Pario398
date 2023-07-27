@@ -7,11 +7,12 @@ I am currently a university student at the University of Kent studying Computer 
 ## Tools
 These are the tools I have experience with:
 
-- [VS Code](https://code.visualstudio.com/) - A lightweight and powerful code editor.
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - An integrated development environment for Java and other languages.
-- [Notion](https://www.notion.so/) - A collaborative workspace for organizing and managing projects.
-- [GitHub](https://github.com/) - A platform for hosting and collaborating on Git repositories.
-- [GitLab](https://gitlab.com/) - Another platform for version control and collaboration.
+- [VS Code](https://code.visualstudio.com/) 
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) 
+- [Notion](https://www.notion.so/) 
+- [GitHub](https://github.com/) 
+- [GitLab](https://gitlab.com/)
+- [React](https://react.dev/)
 
 ## Languages
 
@@ -23,7 +24,6 @@ I'm proficient in the following languages:
 - [SQL](https://www.mysql.com/)
 - [NoSQL (MongoDB)](https://www.mysql.com/)
 - [CSS, JavaScript, HTML](https://www.w3.org/standards/webdesign/htmlcss)
-- [React](https://react.dev/)
 
 I also use [Git](https://git-scm.com/) for version control to manage my projects and collaborate with others.
 I leverage these languages to develop various types of projects, including web applications, data analysis scripts, and more.
