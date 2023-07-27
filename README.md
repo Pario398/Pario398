@@ -4,26 +4,17 @@
 Hello! I'm Rishabh Soni, and this is my portfolio where I showcase my projects and skills.
 I am currently a university student at the University of Kent studying Computer Science
 
-## Tools
-These are the tools I have experience with:
+| Tools           | Languages                                   |
+|-----------------|---------------------------------------------|
+| [VS Code](https://code.visualstudio.com/)| [Java](https://www.oracle.com/java/)               |
+| [IntelliJ IDEA](https://www.jetbrains.com/idea/) | [Python](https://www.python.org/)             |
+| [Notion](https://www.notion.so/)| [PHP](https://www.php.net/)                     |
+| [GitHub](https://github.com/)| [Haskell](https://www.haskell.org/)             |
+| [GitLab](https://gitlab.com/)| [MySQL](https://www.mysql.com/)                   |
+| [React](https://react.dev/)| [NoSQL (MongoDB)](https://www.mongodb.com/)     |
+| [Tensorflow](https://www.tensorflow.org/)| [CSS, JavaScript, HTML](https://www.w3.org/standards/webdesign/htmlcss) |
+|  |[Postgresql](https://www.postgresql.org/)
 
-- [VS Code](https://code.visualstudio.com/) 
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) 
-- [Notion](https://www.notion.so/) 
-- [GitHub](https://github.com/) 
-- [GitLab](https://gitlab.com/)
-- [React](https://react.dev/)
-
-## Languages
-
-I'm proficient in the following languages:
-- [Java](https://www.oracle.com/java/)
-- [Python](https://www.python.org/)
-- [PHP](https://www.php.net/)
-- [Haskell](https://www.haskell.org/)
-- [SQL](https://www.mysql.com/)
-- [NoSQL (MongoDB)](https://www.mysql.com/)
-- [CSS, JavaScript, HTML](https://www.w3.org/standards/webdesign/htmlcss)
 
 I also use [Git](https://git-scm.com/) for version control to manage my projects and collaborate with others.
 I leverage these languages to develop various types of projects, including web applications, data analysis scripts, and more.
