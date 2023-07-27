@@ -15,11 +15,9 @@ I am currently a university student at the University of Kent studying Computer 
 | [GitLab](https://gitlab.com/)| [MySQL](https://www.mysql.com/)                   |
 | [React](https://react.dev/)| [NoSQL (MongoDB)](https://www.mongodb.com/)     |
 | [Tensorflow](https://www.tensorflow.org/)| [CSS, JavaScript, HTML](https://www.w3.org/standards/webdesign/htmlcss) |
-|  |[Postgresql](https://www.postgresql.org/)
+| [Git](https://git-scm.com/) |[Postgresql](https://www.postgresql.org/)
 
-
-I also use [Git](https://git-scm.com/) for version control to manage my projects and collaborate with others.
-I leverage these languages to develop various types of projects, including web applications, data analysis scripts, and more.
+I leverage these tools and languages to develop various types of projects, including web applications, data analysis scripts, and more.
 
 ## Interests
 
