@@ -7,7 +7,7 @@ I am currently a university student at the University of Kent studying Computer 
 ## Tools and Languages
 
 | Tools           | Languages                                   |
-|-----------------|---------------------------------------------|
+|:---:|:---:|
 | [VS Code](https://code.visualstudio.com/)| [Java](https://www.oracle.com/java/)               |
 | [IntelliJ IDEA](https://www.jetbrains.com/idea/) | [Python](https://www.python.org/)             |
 | [Notion](https://www.notion.so/)| [PHP](https://www.php.net/)                     |
