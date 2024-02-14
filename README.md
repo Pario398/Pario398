@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Rishabh Soni</h1>
 
 # 💫 About Me:
-I am  currently a third year Computer Science student at the University of Kent<br>
+I am  currently a third-year Computer Science student at the University of Kent<br>
 🔭 I’m currently working on a Stock Prediction Model using TensorFlow<br>
 🌱 I’m currently learning Machine Learning<br>
 💬 Ask me about AI, Software Dev, Web Dev or any other interests
